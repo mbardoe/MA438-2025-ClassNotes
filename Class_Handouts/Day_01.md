@@ -71,6 +71,7 @@ Fill in the rule, then write a short explanation or justification of why the rul
 If $a^m \cdot a^n = \underline{\hspace{3cm}}$
 
 **Why does this rule work?**  
+
 > ________________________________________________________________
 
 
@@ -79,6 +80,7 @@ If $a^m \cdot a^n = \underline{\hspace{3cm}}$
 If $\dfrac{a^m}{a^n} = \underline{\hspace{3cm}}$
 
 **Why does this rule work?**  
+
 > ________________________________________________________________
 
 
@@ -87,6 +89,7 @@ If $\dfrac{a^m}{a^n} = \underline{\hspace{3cm}}$
 If $(a^m)^n = \underline{\hspace{3cm}}$
 
 **Why does this rule work?**  
+
 > ________________________________________________________________
 
 
@@ -95,6 +98,7 @@ If $(a^m)^n = \underline{\hspace{3cm}}$
 If $(ab)^n = \underline{\hspace{3cm}}$
 
 **Why does this rule work?**
+
 > ________________________________________________________________
 
 
@@ -103,14 +107,26 @@ If $(ab)^n = \underline{\hspace{3cm}}$
 If $a^0 = \underline{\hspace{3cm}}$ (where $a \ne 0$)
 
 **Why does this rule work?**  
+
+> ________________________________________________________________
+
+
+### 6. Reciprocal and Negative one Rule:  
+If $\left(\dfrac{a}{b} \right) ^{-1} = \underline{\hspace{3cm}}$ (where $a \ne 0$ and $b \ne 0$)
+
+**Why does this rule work?**  
+
 > ________________________________________________________________
 
 
 
-### 6. Negative Exponent Rule:  
+
+
+### 7. Negative Exponent Rule:  
 If $a^{-n} = \underline{\hspace{3cm}}$ (where $a \ne 0$)
 
 **Why does this rule work?**  
+
 > ________________________________________________________________
 
 
@@ -127,7 +143,7 @@ Simplify each expression completely. Show all steps.
 
 3. $\left(\dfrac{5^{-2} \cdot 10^3}{2^{-1} \cdot 5}\right) = \underline{\hspace{5cm}}$
 
-4. $(2^{-3})^4 = \underline{\hspace{5cm}}$
+4. $(2^{-2})^4 = \underline{\hspace{5cm}}$
 
 5. $\dfrac{6^0 + 2^{-1}}{3^{-2}} = \underline{\hspace{5cm}}$
 
@@ -141,7 +157,7 @@ Simplify each expression completely. Show all steps.
 
 8. $\dfrac{(m^{-3}n^2)^2}{n^{-4}m} = \underline{\hspace{5cm}}$
 
-9. $x^{-1} + y^{-1} = \dfrac{1}{x} + \dfrac{1}{y} = \underline{\hspace{5cm}}$
+9. $x^{-1} + y^{-1} = \underline{\hspace{5cm}}$
 
 10. $\left( \dfrac{1}{x^{-1} + y^{-1}} \right) = \underline{\hspace{5cm}}$
 
