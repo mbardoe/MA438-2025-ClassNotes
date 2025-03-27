@@ -49,12 +49,14 @@ class Renderer:
         if 'render' in commands:
             if 'landscape' in commands:
                 final_call = ["pandoc", "-s", directory + "/" + filename,
+                              '--pdf-engine=pdflatex',
                               '-V', 'geometry:landscape',
                               "-o", directory + "/pdf/" + filename[:-3] + '.pdf']
 
             else:
                 final_call = ["pandoc", "-s", directory + "/" + filename,
-                              '-V', "geometry:margin = .75 in",
+                              '--pdf-engine=pdflatex',
+                              '-V', "geometry:margin=.75in",
                               "-o", directory + "/pdf/" + filename[:-3] + '.pdf']
 
         if len(final_call) > 0:
