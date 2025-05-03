@@ -50,17 +50,25 @@ class Renderer:
             if 'landscape' in commands:
                 final_call = ["pandoc", "-s", directory + "/" + filename,
                               '--pdf-engine=pdflatex',
-                              '-V', 'geometry:landscape',
-                              "-o", directory + "/pdf/" + filename[:-3] + '.pdf']
+                              '-V', 'geometry:landscape']
+                if 'grid' in commands:
+                    final_call.extend(['-H', 'grid-header.tex'])
+                final_call.extend([ "-o", directory + "/pdf/" + filename[:-3] + '.pdf'])
+
+
 
             else:
                 final_call = ["pandoc", "-s", directory + "/" + filename,
-                              '--pdf-engine=pdflatex',
-                              '-V', "geometry:margin=.75in",
-                              "-o", directory + "/pdf/" + filename[:-3] + '.pdf']
+                              '--pdf-engine=pdflatex']
+                if 'grid' in commands:
+                    final_call.extend(['-H', 'grid-header.tex'])
+                              #grid_command[0], grid_command[1],
+                final_call.extend(['-V', "geometry:margin=.75in",
+                              '-V', 'papersize:letter',
+                              "-o", directory + "/pdf/" + filename[:-3] + '.pdf' ])
 
         if len(final_call) > 0:
-            # print (final_call)
+            print (final_call)
             call(final_call)
 
 

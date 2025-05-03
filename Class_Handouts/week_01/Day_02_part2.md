@@ -34,14 +34,14 @@ Let’s write an expression for each situation using just the numbers:
 
 One doubling:  
 
-<br><br><br>
+\vspace{2in}
 
 $A = \underline{\hspace{1.5cm}} \cdot \underline{\hspace{1.5cm}}^{\underline{\hspace{1.5cm}}}$  
 → $A = \underline{\hspace{1.5cm}}$
 
 Also written using the time and doubling period:  
 
-<br><br><br>
+\vspace{2in}
 
 $A = \underline{\hspace{1.5cm}} \cdot \underline{\hspace{1.5cm}}^{\frac{\underline{\hspace{1.5cm}}}{\underline{\hspace{1.5cm}}}}$
 
@@ -50,14 +50,14 @@ $A = \underline{\hspace{1.5cm}} \cdot \underline{\hspace{1.5cm}}^{\frac{\underli
 
 Two doublings:  
 
-<br><br><br>
+\vspace{2in}
 
 $A = \underline{\hspace{1.5cm}} \cdot \underline{\hspace{1.5cm}}^{\underline{\hspace{1.5cm}}}$  
 → $A = \underline{\hspace{1.5cm}}$
 
 Also written using the time and doubling period:  
 
-<br><br><br>
+\vspace{2in}
 
 $A = \underline{\hspace{1.5cm}} \cdot \underline{\hspace{1.5cm}}^{\frac{\underline{\hspace{1.5cm}}}{\underline{\hspace{1.5cm}}}}$
 
@@ -66,7 +66,7 @@ $A = \underline{\hspace{1.5cm}} \cdot \underline{\hspace{1.5cm}}^{\frac{\underli
 
 Three doublings:  
 
-<br><br><br>
+\vspace{2in}
 
 $A = \underline{\hspace{1.5cm}} \cdot \underline{\hspace{1.5cm}}^{\underline{\hspace{1.5cm}}}$  
 → $A = \underline{\hspace{1.5cm}}$
@@ -134,6 +134,7 @@ Thus, the doubling-time formula is just a special version of the standard expone
    b) What is the population after 54 years?  
    c) What is the annual growth factor (base $b$) in this case?
 
+\vspace{3in}
 
 ## IV. Reflection
 

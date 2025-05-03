@@ -12,3 +12,4 @@ Currently this program supports the following commands:
 
 * ```[comment]: render``` - this makes the file be turned into a pdf
 * ```[comment]: landscape``` - when the file is processed to pdf it will do so in a landscape orientation.
+* ```[comment]: grid``` - When the file is processed the file has a grid pattern that is behind the text.
